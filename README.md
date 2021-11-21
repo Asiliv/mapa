@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://asiliv.github.io/mapa/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1TqiE5uCrqIxOsjzQmcYFLfK8hVaHYJpHIDyouauyGZ0/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/18VG-MA1Y2N6I6026OlfnvQHLX8KCuQdyfmMio789OQs/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
